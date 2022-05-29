@@ -5,3 +5,29 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.game-board {
+  position: relative;
+  width: 80%;
+  height: 500px;
+  overflow: hidden;
+  margin: 20px auto;
+  border: 1px solid #000;
+  border-radius: 8px;
+}
+
+.pipe {
+  position: absolute;
+  width: 80px;
+  bottom: 0;
+  animation: pipe-animation 2s linear infinite;
+}
+
+@keyframes pipe-animation {
+  from {
+    right: -80px;
+  }
+  to {
+    right: 100%;
+  }
+}
