@@ -6,6 +6,11 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #111;
+}
+
 .game-board {
   position: relative;
   width: 95%;
@@ -38,6 +43,22 @@
   position: absolute;
   width: 550px;
   animation: clouds-animation 20s infinite linear;
+}
+
+.instructions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+  width: 95%;
+  font-size: 18px;
+  color: #fff;
+}
+
+.instructions p {
+  line-height: 1.5;
 }
 
 @keyframes pipe-animation {
@@ -74,7 +95,8 @@
 @keyframes clouds-animation {
   from {
     right: -550px;
-  }to {
+  }
+  to {
     right: 100%;
   }
 }
