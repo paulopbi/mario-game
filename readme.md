@@ -12,7 +12,7 @@ Me Siga nas redes sociais
 
 <br><br>
 
-<h1 align="center"> Mario Game</h1>
+<h1> Mario Game</h1>
 
 ## Demo
 
