@@ -1,45 +1,49 @@
 <div id="top" align="center">
-<h1>
-Mario Game
-</h1>
+<img src="./assets/logo-readme.png" width="250em">
 <p align="center">
-Faça o Mario pular os obstaculos em seu caminho
+Me Siga nas redes sociais
 </p>
-<a href="https://paulpbi.github.io/mario-game/" target="_blank">Site Completo</a> •
+<a href="https://paulopbi.github.io/mario-game/" target="_blank">Site Completo</a> •
 <a href="https://www.linkedin.com/in/paulopbi/" target="_blank">Linkedin</a> •
-<a href="https://github.com/Paulpbi" target="_blank">Github</a> •
+<a href="https://github.com/paulopbi" target="_blank">Github</a> •
 <a href="https://www.behance.net/paulopbi" target="_blank">Behance</a> •
 <a href="https://www.instagram.com/paulopbi_/" target="_blank">Instagram</a> 
 </div>
 
 <br><br>
 
-### Sobre o projeto
+<h1 align="center"> Mario Game</h1>
 
-<p align="center">
+## Demo
+
+<div align="center">
 <img src="./assets/demo.gif" width="600px">
-</p>
-Esse projeto foi inspirado no clássico jogo de dinossauro dos navegadores, o objetivo é simples: pular os canos apertando qualquer tecla.
+</div>
 
-### Tecnologias utilizadas
+## Sobre
+
+Esse projeto foi inspirado no clássico jogo de dinossauro dos navegadores, mas a essa versão é inspirada no mundo dos jogos de Super Mario, o objetivo é simples: pular os canos apertando qualquer tecla, se encostar no cano você morrerá.
+
+### Tecnologias
 
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-### O que eu aprendi?
+### O que foi utilizado?
 
-- Animações de CSS
-- Manipulação de Dom
-- Métodos como "setInterval"
-- Manipulação de Strings para Numbers
-- Eventos de AddEventListener
-- Condições de IF
-- Métodos como replace, offset, getcomputedstyle
+- Animações em CSS.
+- Manipulação de Strings e Numbers.
+- Eventos do Browser.
+- Estruturas Condicionais.
+- Manipulação de Dom.
+- Métodos como setInterval, replace, offset, getcomputedstyle.
 - E várias outras coisas.
 
 ### Contato
 
 Paulo Victor - paulovictordev16@gmail.com
+
+<br><br>
 
 <p align="right">(<a href="#top">Voltar ao inicio</a>)</p>
