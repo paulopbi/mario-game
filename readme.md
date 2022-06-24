@@ -1,16 +1,24 @@
 <div id="top" align="center">
-<img src="./assets/logo-readme.png" width="250em">
+
+<img src="./assets/gif-readme.gif" width="150em">
+
+<a href="https://paulopbi.github.io/mario-game/" target="_blank">
+<strong>Site Completo »</strong>
+</a>
+
+<br>
+
 <p align="center">
 Me Siga nas redes sociais
 </p>
-<a href="https://paulopbi.github.io/mario-game/" target="_blank">Site Completo</a> •
+
 <a href="https://www.linkedin.com/in/paulopbi/" target="_blank">Linkedin</a> •
 <a href="https://github.com/paulopbi" target="_blank">Github</a> •
 <a href="https://www.behance.net/paulopbi" target="_blank">Behance</a> •
 <a href="https://www.instagram.com/paulopbi_/" target="_blank">Instagram</a> 
 </div>
 
-<br><br>
+<br>
 
 <h1> Mario Game</h1>
 
