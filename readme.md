@@ -1,7 +1,7 @@
 <div id="top" align="center">
 
-<img src="./assets/gif-readme.gif" width="150em">
-
+<img src="./assets/gif-readme.gif" width="150em" height="150em">
+  <br>
 <a href="https://paulopbi.github.io/mario-game/" target="_blank">
 <strong>Site Completo »</strong>
 </a>
@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-Me Siga nas redes sociais
+Me siga nas redes sociais
 </p>
 
 <a href="https://www.linkedin.com/in/paulopbi/" target="_blank">Linkedin</a> •
