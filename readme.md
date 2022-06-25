@@ -1,5 +1,4 @@
 <div id="top" align="center">
-<<<<<<< HEAD
 
 <img src="./assets/gif-readme.gif" width="150em">
 
@@ -9,19 +8,9 @@
 
 <br>
 
-=======
-<h1>
-Mario Game
-</h1>
->>>>>>> parent of 756e774 (readme criado)
 <p align="center">
 Faça o Mario pular os obstaculos em seu caminho
 </p>
-<<<<<<< HEAD
-
-=======
-<a href="https://paulpbi.github.io/mario-game/" target="_blank">Site Completo</a> •
->>>>>>> parent of 756e774 (readme criado)
 <a href="https://www.linkedin.com/in/paulopbi/" target="_blank">Linkedin</a> •
 <a href="https://github.com/Paulpbi" target="_blank">Github</a> •
 <a href="https://www.behance.net/paulopbi" target="_blank">Behance</a> •
@@ -30,11 +19,7 @@ Faça o Mario pular os obstaculos em seu caminho
 
 <br>
 
-<<<<<<< HEAD
 <h1> Mario Game</h1>
-=======
-### Sobre o projeto
->>>>>>> parent of 756e774 (readme criado)
 
 <p align="center">
 <img src="./assets/demo.gif" width="600px">
