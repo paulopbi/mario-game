@@ -1,10 +1,8 @@
 <div id="top" align="center">
 
-<img src="./assets/gif-readme.gif" width="150em">
+<img src="./assets/gif-readme.gif" width="150em" height="150em">
 
-<a href="https://paulopbi.github.io/mario-game/" target="_blank">
-<strong>Site Completo »</strong>
-</a>
+<a href="https://paulopbi.github.io/mario-game/" target="_blank"><strong>Jogo Completo »</strong></a>
 
 <br>
 
@@ -12,14 +10,12 @@
 Faça o Mario pular os obstaculos em seu caminho
 </p>
 <a href="https://www.linkedin.com/in/paulopbi/" target="_blank">Linkedin</a> •
-<a href="https://github.com/Paulpbi" target="_blank">Github</a> •
+<a href="https://github.com/paulopbi" target="_blank">Github</a> •
 <a href="https://www.behance.net/paulopbi" target="_blank">Behance</a> •
-<a href="https://www.instagram.com/paulopbi_/" target="_blank">Instagram</a> 
+<a href="https://www.instagram.com/paulopbi_/" target="_blank">Instagram</a>
 </div>
 
-<br>
-
-<h1> Mario Game</h1>
+# Mario Game
 
 <p align="center">
 <img src="./assets/demo.gif" width="600px">
@@ -28,9 +24,9 @@ Esse projeto foi inspirado no clássico jogo de dinossauro dos navegadores, o ob
 
 ### Tecnologias utilizadas
 
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [x] Html
+- [x] CSS
+- [x] Javascript
 
 ### O que eu aprendi?
 
@@ -43,7 +39,7 @@ Esse projeto foi inspirado no clássico jogo de dinossauro dos navegadores, o ob
 - Métodos como replace, offset, getcomputedstyle
 - E várias outras coisas.
 
-### Contato
+## Contato
 
 Paulo Victor - paulovictordev16@gmail.com
 
