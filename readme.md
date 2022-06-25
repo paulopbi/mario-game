@@ -1,4 +1,5 @@
 <div id="top" align="center">
+<<<<<<< HEAD
 
 <img src="./assets/gif-readme.gif" width="150em">
 
@@ -8,50 +9,57 @@
 
 <br>
 
+=======
+<h1>
+Mario Game
+</h1>
+>>>>>>> parent of 756e774 (readme criado)
 <p align="center">
-Me Siga nas redes sociais
+Faça o Mario pular os obstaculos em seu caminho
 </p>
+<<<<<<< HEAD
 
+=======
+<a href="https://paulpbi.github.io/mario-game/" target="_blank">Site Completo</a> •
+>>>>>>> parent of 756e774 (readme criado)
 <a href="https://www.linkedin.com/in/paulopbi/" target="_blank">Linkedin</a> •
-<a href="https://github.com/paulopbi" target="_blank">Github</a> •
+<a href="https://github.com/Paulpbi" target="_blank">Github</a> •
 <a href="https://www.behance.net/paulopbi" target="_blank">Behance</a> •
 <a href="https://www.instagram.com/paulopbi_/" target="_blank">Instagram</a> 
 </div>
 
 <br>
 
+<<<<<<< HEAD
 <h1> Mario Game</h1>
+=======
+### Sobre o projeto
+>>>>>>> parent of 756e774 (readme criado)
 
-## Demo
-
-<div align="center">
+<p align="center">
 <img src="./assets/demo.gif" width="600px">
-</div>
+</p>
+Esse projeto foi inspirado no clássico jogo de dinossauro dos navegadores, o objetivo é simples: pular os canos apertando qualquer tecla.
 
-## Sobre
-
-Esse projeto foi inspirado no clássico jogo de dinossauro dos navegadores, mas a essa versão é inspirada no mundo dos jogos de Super Mario, o objetivo é simples: pular os canos apertando qualquer tecla, se encostar no cano você morrerá.
-
-### Tecnologias
+### Tecnologias utilizadas
 
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-### O que foi utilizado?
+### O que eu aprendi?
 
-- Animações em CSS.
-- Manipulação de Strings e Numbers.
-- Eventos do Browser.
-- Estruturas Condicionais.
-- Manipulação de Dom.
-- Métodos como setInterval, replace, offset, getcomputedstyle.
+- Animações de CSS
+- Manipulação de Dom
+- Métodos como "setInterval"
+- Manipulação de Strings para Numbers
+- Eventos de AddEventListener
+- Condições de IF
+- Métodos como replace, offset, getcomputedstyle
 - E várias outras coisas.
 
 ### Contato
 
 Paulo Victor - paulovictordev16@gmail.com
-
-<br><br>
 
 <p align="right">(<a href="#top">Voltar ao inicio</a>)</p>
